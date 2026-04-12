@@ -11,7 +11,9 @@
 </div>
 
 Plant Disease: Nhận diện 38 loại bệnh cây trồng (Dữ liệu PlantVillage).
+
 Cat vs Dog:    Phân biệt chó và mèo.
+
 CIFAR-10:      Phân loại 10 lớp đối tượng cơ bản (Máy bay, ô tô, chim, ...).
 
 Tiền xử lý (Pre-processing):
