@@ -5,8 +5,8 @@
 <td align="center"><b>Nhận diện Bệnh Cây Trồng</b></td>
 </tr>
 <tr>
-<td><img src="https://github.com.com/tung2kg1/DeepLearning/main/app/dog_cfar10.jpg" width="350"></td>
-<td><img src="https://github.com.com/tung2kg1/DeepLearning/main/app/leafscorch_plantvillage.jpg" width="350"></td>
+<td><img src="https://github.com/tung2kg1/DeepLearning/blob/main/app/dog_cfar10.png" width="350"></td>
+<td><img src="https://github.com/tung2kg1/DeepLearning/blob/main/app/leafscorch_plantvillage.png" width="350"></td>
 </tr>
 <tr>
 <td align="center"><b>Phân biệt Chó vs Mèo</b></td>
@@ -14,7 +14,8 @@
 </tr>
 <tr>
 <td><img src="https://github.com/tung2kg1/DeepLearning/blob/main/app/cat_catvsdog.png" width="350"></td>
-<td><img src="https://github.com.com/tung2kg1/DeepLearning/main/app/defult_ui.png" width="350"></td>
+<td><img src="https://github.com/tung2kg1/DeepLearning/blob/main/app/defult_ui.png" width="350"></td>
+<td><img src="https://github.com/tung2kg1/DeepLearning/blob/main/app/model_selector.png" width="350"></td>
 </tr>
 </table>
 </div>
