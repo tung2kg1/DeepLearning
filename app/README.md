@@ -16,14 +16,17 @@ Cat vs Dog:    Phân biệt chó và mèo.
 
 CIFAR-10:      Phân loại 10 lớp đối tượng cơ bản (Máy bay, ô tô, chim, ...).
 
+
 Tiền xử lý (Pre-processing):
    - Auto-size Detection: App tự động truy vấn 'model.input_shape' để
      thực hiện Resize ảnh (Ví dụ: 224x224 hoặc 32x32) một cách chính xác.
    - Normalization: Chuyển đổi giá trị Pixel về đoạn [0, 1].
    - Dimension Expansion: Chuyển ảnh về dạng Batch (1, H, W, C).
 
+
 Inference:
    - Sử dụng TensorFlow để dự đoán xác suất (Softmax Vector).
+
 
 Post-processing:
    - Mapping: Ánh xạ Index sang tên lớp (Class Name).
