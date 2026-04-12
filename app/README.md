@@ -13,7 +13,7 @@
 <td align="center"><b>Giao diện mặc định</b></td>
 </tr>
 <tr>
-<td><img src="https://github.com.com/tung2kg1/DeepLearning/main/app/cat_catvsdog.png" width="350"></td>
+<td><img src="https://github.com/tung2kg1/DeepLearning/blob/main/app/cat_catvsdog.png" width="350"></td>
 <td><img src="https://github.com.com/tung2kg1/DeepLearning/main/app/defult_ui.png" width="350"></td>
 </tr>
 </table>
